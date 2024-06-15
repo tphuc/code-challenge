@@ -1,10 +1,21 @@
 # 99Tech Code Challenge #1 #
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+## Problem1
+The solution for Problem 1 can be found in the main.js file. Please review this file for the complete implementation.
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+## Problem2
+To run the Next.js application located inside the currency-exchange directory, follow these steps:
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+Install the dependencies:
+
+```sh
+pnpm install
+```
+
+Start the development server:
+```
+pnpm run dev
+```
+
+## Problem3
+Please refer to the `readme.md` file inside. 
